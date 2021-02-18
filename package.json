@@ -1,0 +1,19 @@
+{
+  "name": "chessjs",
+  "version": "1.0.0",
+  "description": "A chess project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DavidVerduin/chessjs.git"
+  },
+  "author": "DavidVerduin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidVerduin/chessjs/issues"
+  },
+  "homepage": "https://github.com/DavidVerduin/chessjs#readme"
+}
